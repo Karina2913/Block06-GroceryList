@@ -1,0 +1,33 @@
+* {
+    color: hsl(0, 0%, 0%);
+}
+
+.header {
+    background-color: rgb(116, 116, 218);
+    border: 2px solid black;
+    margin: 100px;
+    color: white;
+    width: 200px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.parent {
+    color: white;
+}
+
+.parent img {
+    height: 200px;
+    width: 200px;
+    padding-inline: 5%;
+}
+
+.child {
+    border: 2px;
+    background-color: gray;
+    margin: 200;
+    display: inline-block;
+    padding-inline: 5%;
+}
